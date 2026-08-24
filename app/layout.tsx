@@ -3,9 +3,9 @@ import './globals.css'
 import { Providers } from './providers'
 
 export const metadata: Metadata = {
-  title: 'Fluent UI Starter',
+  title: 'Forward | Change workspace',
   description:
-    'A starter app built with Microsoft Fluent UI React v9 (Fluent 2 design system).',
+    'A Microsoft Dynamics 365 change workspace for moving ideas from opportunity to action.',
 }
 
 export default function RootLayout({
